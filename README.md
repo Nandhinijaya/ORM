@@ -7,6 +7,8 @@ To develop a Django application to store and retrieve data from a student databa
 
 Include your ER diagram here
 
+![student admin](https://user-images.githubusercontent.com/121998147/233004622-12bff9f4-e272-41b1-875a-55e165f5e17b.jpg)
+
 ## DESIGN STEPS
 
 ### STEP 1:
