@@ -46,7 +46,8 @@ class StudentAdmin(admin.ModelAdmin):
 
 
 ## OUTPUT
-![employee](https://user-images.githubusercontent.com/121998147/234511093-0e89f19f-f9a8-49e4-86f5-4120ef07cf73.jpg)
+![exp2 django pic](https://user-images.githubusercontent.com/121998147/234518215-29b7fdfa-8da8-4e15-a614-d574221fda7d.jpg)
+
 
 
 
