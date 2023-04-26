@@ -7,7 +7,7 @@ To develop a Django application to store and retrieve data from a student databa
 
 Include your ER diagram here
 
-![student admin](https://user-images.githubusercontent.com/121998147/233004622-12bff9f4-e272-41b1-875a-55e165f5e17b.jpg)
+![student](https://user-images.githubusercontent.com/121998147/234515928-8b4604ec-aa54-41a9-af78-d6fb09a508a2.jpg)
 
 ## DESIGN STEPS
 
@@ -46,8 +46,7 @@ class StudentAdmin(admin.ModelAdmin):
 
 
 ## OUTPUT
-![exp2 django pic ](https://user-images.githubusercontent.com/121998147/234515460-5bbe1e6f-6abe-442f-a516-9e373804bd51.png)
-
+![employee](https://user-images.githubusercontent.com/121998147/234511093-0e89f19f-f9a8-49e4-86f5-4120ef07cf73.jpg)
 
 
 
