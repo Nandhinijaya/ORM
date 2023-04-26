@@ -33,21 +33,22 @@ from django.db import models
 from django.contrib import admin
 # Create your models here.
 class Student (models.Model):
-    referencenumber=models.CharField(primary_key=True,max_length=20,help_text="reference number")
+    rollno=models.IntegerField(primary_key=True,max_length=20,help_text="rollno")
     name=models.CharField(max_length=100)
     age=models.IntegerField()
     email=models.EmailField()
 
 
 class StudentAdmin(admin.ModelAdmin):
-    list_display=('referencenumber','name','age','email')
+    list_display=('rollno','name','age','email')
 
 ```
 
 
 ## OUTPUT
+![employee](https://user-images.githubusercontent.com/121998147/234511093-0e89f19f-f9a8-49e4-86f5-4120ef07cf73.jpg)
 
-![Screenshot from 2023-04-18 23-05-15](https://user-images.githubusercontent.com/121998147/232859508-6a11eea3-3322-4611-a57e-c9c75af7d361.png)
+
 
 
 ## RESULT
