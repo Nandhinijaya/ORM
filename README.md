@@ -37,10 +37,11 @@ class Student (models.Model):
     name=models.CharField(max_length=100)
     age=models.IntegerField()
     email=models.EmailField()
+    mark=models.IntegerField()
 
 
 class StudentAdmin(admin.ModelAdmin):
-    list_display=('rollno','name','age','email')
+    list_display=('rollno','name','age','email','mark')
 
 ```
 
